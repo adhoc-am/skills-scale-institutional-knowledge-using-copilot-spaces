@@ -31,13 +31,16 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Ensure team capacity is respected
 
 ## Risk & Dependency Management
-- Capture in Risk Register:
+- **Risk Owner** captures and maintains the Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+- **Risk Owner** coordinates risk review sessions with the planning team
 
 ## Planning Checklist
-- [ ] Project kickoff held
+- [ ] Project kickoff held with all key roles including **Stakeholder Liaison**
 - [ ] Backlog prioritized and estimated
-- [ ] Release timeline and milestones agreed
+- [ ] Release timeline and milestones agreed with **Release Readiness Lead** input
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Risk register established by **Risk Owner**
+- [ ] Change management process clarified with **Change Manager**

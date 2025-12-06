@@ -14,11 +14,22 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+
+### Primary Delivery Roles
+- **Project Manager (PM)**: Coordinates delivery, schedules, risk, and communications
+- **Product Manager (PdM)**: Defines outcomes, prioritizes backlog, and measures success
+- **Developers**: Implement features, collaborate on design and testability
+- **QA/Testing**: Validate quality and acceptance criteria
+
+### Specialized Management Roles
+- **Risk Owner**: Identifies, assesses, and manages project risks; maintains risk register
+- **Change Manager**: Manages change requests and approval workflows
+- **Stakeholder Liaison**: Primary communication point for key stakeholders; ensures ongoing alignment
+- **Release Readiness Lead**: Manages release checklist and facilitates go/no-go decisions
+
+### External Participants
+- **Stakeholders**: Provide inputs, feedback, and approvals
+- **Steering Group**: Provides executive oversight and handles escalations
 
 ## Key Artifacts
 - Project Charter / One-pager
