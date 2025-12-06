@@ -24,6 +24,10 @@ Learn about the core team roles and their responsibilities. This document define
 
 Understand how different roles collaborate throughout the project lifecycle. This reference guide maps role interactions, handoff points, decision authority, and communication patterns to clarify collaboration boundaries and reduce ambiguity.
 
+### [Roles Enhancement Summary](octoacme-roles-enhancement-summary.md)
+
+Learn about the rationale and benefits of the expanded role definitions (Risk Owner, Change Manager, Stakeholder Liaison, Release Readiness Lead). This document explains how these additions address process gaps, improve accountability, and enhance team execution.
+
 ### Project Lifecycle Documents
 
 The following documents walk through each phase of the project lifecycle:
