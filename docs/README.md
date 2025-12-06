@@ -18,7 +18,11 @@ Start here to understand OctoAcme's foundational principles, core roles, key art
 
 ### [Roles and Personas](octoacme-roles-and-personas.md)
 
-Learn about the core team roles and their responsibilities. This document defines the responsibilities, goals, and typical communication patterns for Developers, Product Managers, and Project Managers working on OctoAcme projects.
+Learn about the core team roles and their responsibilities. This document defines the responsibilities, goals, and typical communication patterns for all OctoAcme project roles including Developers, Product Managers, Project Managers, Risk Owner, Change Manager, Stakeholder Liaison, and Release Readiness Lead.
+
+### [Role Interaction Matrix](octoacme-role-interaction-matrix.md)
+
+Understand how different roles collaborate throughout the project lifecycle. This reference guide maps role interactions, handoff points, decision authority, and communication patterns to clarify collaboration boundaries and reduce ambiguity.
 
 ### Project Lifecycle Documents
 
