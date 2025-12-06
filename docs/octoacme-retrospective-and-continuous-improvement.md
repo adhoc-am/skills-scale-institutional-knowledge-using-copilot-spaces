@@ -16,6 +16,11 @@ After each sprint, release, or important milestone. Also after incidents.
 - Timebox: 45–75 minutes depending on team size
 - Use an anonymous idea board if needed to encourage candor
 - Prioritize 2–3 top action items to avoid overload
+- **Project Manager** facilitates; all roles participate including specialized roles
+- **Risk Owner** shares insights on risk mitigation effectiveness
+- **Change Manager** reviews impact of scope changes
+- **Stakeholder Liaison** provides feedback on stakeholder communication effectiveness
+- **Release Readiness Lead** discusses release process improvements
 
 ## Tracking Improvements
 - Add action items to the project backlog or issues with clear owners and timelines
